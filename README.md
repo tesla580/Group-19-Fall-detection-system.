@@ -24,3 +24,5 @@ How It Works:
  Code: Arduino sketch for fall detection logic
  Presentation: Project overview (PowerPoint)
  Simulation: Wokwi-based testing setup
+
+video presentation in link; https://youtu.be/cBLS8h-MIAk
