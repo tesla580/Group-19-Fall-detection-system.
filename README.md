@@ -28,3 +28,4 @@ How It Works:
 video presentation in link; https://youtu.be/cBLS8h-MIAk
 
 and power point presentation; 
+https://github.com/tesla580/Group-19-Fall-detection-system./blob/527a4089defc166e6cec75e6fdeae51c2c6ba454/Fall%20Detection%20System%20for%20Elderly%20-%20Detects%20sudden%20falls%20and%20sends%20alerts%20-%20Group%2019.pptx
